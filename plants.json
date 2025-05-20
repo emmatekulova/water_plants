@@ -1,0 +1,22 @@
+[
+  {
+    "name": "pothos young and air plants",
+    "short_name": "p",
+    "watering days": 7
+  },
+  {
+    "name": "orchids",
+    "short_name": "o",
+    "watering days": 10
+  },
+  {
+    "name": "succulents",
+    "short_name": "s",
+    "watering days": 30
+  },
+  {
+    "name": "others",
+    "short_name": "ot",
+    "watering days": 14
+  }
+]
